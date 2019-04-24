@@ -4,7 +4,6 @@ import { Location } from '@angular/common';
 
 import { Hero } from '../hero';
 import { HeroService } from '../services/hero-services/hero.service';
-import { getHeapSpaceStatistics } from 'v8';
 
 @Component({
   selector: 'app-hero-detail',
